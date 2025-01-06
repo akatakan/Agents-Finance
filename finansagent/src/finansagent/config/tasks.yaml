@@ -1,0 +1,6 @@
+compare_task:
+  description: >
+    Search given stock profits and compare them with the market average for given year.
+  expected_output: >
+    Most profitable stocks for given year.
+  agent: expert_finance_researcher

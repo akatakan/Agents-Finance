@@ -1,0 +1,6 @@
+account_task:
+  description: >
+    Get amount,principal,rate and time from user and calculate compound interest from {query}
+  expected_output: >
+    Final amount of compound interest based on given currency
+  agent: account_manager
